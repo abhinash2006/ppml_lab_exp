@@ -1,0 +1,12 @@
+1>display  simple interest  and  compound interest 
+2>wap to 1st name and mid name  and the last name into  three variable  and then apply  concatenation 
+3>wap to create  alist by initializing  with 5 different fruits name  and display them .
+4>wap to create tuple  and display the  element of it.
+5>wap to  create a dictionary  store samp;le data  and then display  the key value of it.
+6>wap to input a sentence and then print the reverse  of it .
+7>wap to input data for  int string float boolean complex  and then  thier datatypes 
+8>wap to input a strring "hello world ".display it in upper case ,lower case ,1st letter  capitalized ,find th length .
+9>wap to input a string "Good morning friends how  are you all "and do the operations :display it in  the reverse order of characters ,
+split whole sentence into indivitual words and stores as a list .
+10>wap  to input string "hi ram hi shyam hi mam."search  the word "hi"and replace  with "hello " .remove the sentence .
+exp 12 th  dec

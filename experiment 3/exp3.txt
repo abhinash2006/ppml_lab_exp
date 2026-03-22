@@ -1,0 +1,15 @@
+EXPERIMENT NO -3 (SELECTION CONTROL STATEMTS )
+1.wap to test  a  string is palindrome or not 
+2.wap to input  3  coefficiennt values and find the real roots 
+3.find the gratest among 3 unequal numbers 
+4.accept a digit  within  0 to 6  and display the week days  such as : 0 for sundays   etc 
+5.wap to input maeks for  5 subjects ,assume maximum marks for each subjets is 50 .fiond percentaeg and then display grade as  below 
+percentaeg>=90 and <= 100grade is o 
+percentaeg>=80 and <= 90grade is e 
+percentaeg>=70 and <= 80grade is a 
+percentaeg>=60 and <= 70grade is b 
+percentaeg>=50 and <= 60grade is c 
+percentaeg>=0 and <50grade is f 
+6.wap to  input  an  alphbet  and check  weather it  is  vowel or consonant.
+7.wap to input  two  strings  and check  wether they  are  equal or not ? 
+9 th jan 

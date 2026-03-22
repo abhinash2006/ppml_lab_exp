@@ -1,0 +1,2 @@
+1>wap to  create a list  whgich  contain  some grp  of  fruit  names .display the  elemets  of list  from last index  to  1 st  index  and  also  show he length  of weach  element  create anothe  list  whic collects  the value  of  1  st dictionary  as values and  then  siaplay  both  dictionaries 
+2>

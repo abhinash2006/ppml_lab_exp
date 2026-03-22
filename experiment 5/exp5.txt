@@ -1,0 +1,5 @@
+1>generate  fibonacci series  between 0 to 1000.then  fimnd the sum of the valued terma 
+2>wap that loops over a sequence of  elements of a list ,tuple ,dictionary and set .
+3>wap that find th farheni6  for g ive n celcius  from the  list .
+4>wap to  create an  empty list  and input a  group of  numbers into the list ,remove  the duplicate elemnts from it  
+and  then sort in ascending  order and then  display.
